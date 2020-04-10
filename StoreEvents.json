@@ -3,16 +3,11 @@
 	{
 		"abr": "clearweather",
 		"price": 400,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rain",
 		"price": 350,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "vomitrain",
-		"price": 650,
 		"karmatype": "Neutral"
 	},
 	{
@@ -72,17 +67,17 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 13000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 6400,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "eclipse",
-		"price": 450,
+		"price": 900,
 		"karmatype": "Bad"
 	},
 	{
@@ -163,7 +158,7 @@
 	{
 		"abr": "wildman",
 		"price": 300,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rarethrumbos",
@@ -202,12 +197,12 @@
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 1900,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 2400,
+		"price": 4000,
 		"karmatype": "Bad"
 	},
 	{
@@ -222,12 +217,12 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
@@ -242,7 +237,7 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -257,17 +252,17 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1000,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "disease",
-		"price": 1000,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -296,15 +291,15 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "torytalkervote",
+		"abr": "ttvote",
 		"price": 750,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "hodlbotvote",
+		"abr": "hbvote",
 		"price": 600,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 61
+	"total": 60
 }
