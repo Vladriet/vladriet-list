@@ -2726,13 +2726,13 @@
 	},
 	{
 		"abr": "air-conindoorunit",
-		"price": 82,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "AirconIndoorUnit"
 	},
 	{
 		"abr": "air-conoutdoorunit",
-		"price": 458,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "AirConOutdoorUnit"
 	},
