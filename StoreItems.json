@@ -3146,7 +3146,7 @@
 	},
 	{
 		"abr": "biosolids",
-		"price": 0,
+		"price": -10,
 		"category": "Waste",
 		"defname": "Biosolids"
 	},
@@ -4226,7 +4226,7 @@
 	},
 	{
 		"abr": "hardtack",
-		"price": 0,
+		"price": -10,
 		"category": "Meals",
 		"defname": "RC2_Hardtack"
 	},
