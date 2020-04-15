@@ -1023,97 +1023,97 @@
 	{
 		"abr": "powerconduit",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PowerConduit"
 	},
 	{
 		"abr": "grave",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Grave"
 	},
 	{
 		"abr": "wall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall"
 	},
 	{
 		"abr": "sandbags",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Sandbags"
 	},
 	{
 		"abr": "barricade",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Barricade"
 	},
 	{
 		"abr": "waterproofconduit",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WaterproofConduit"
 	},
 	{
 		"abr": "torchlamp",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "TorchLamp"
 	},
 	{
 		"abr": "campfire",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Campfire"
 	},
 	{
 		"abr": "hopper",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Hopper"
 	},
 	{
 		"abr": "ancientlamppost",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "AncientLamppost"
 	},
 	{
 		"abr": "ancientconcretebarrier",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "AncientConcreteBarrier"
 	},
 	{
 		"abr": "column",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Column"
 	},
 	{
 		"abr": "door",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Door"
 	},
 	{
 		"abr": "vent",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Vent"
 	},
 	{
 		"abr": "passivecooler",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PassiveCooler"
 	},
 	{
 		"abr": "powerswitch",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PowerSwitch"
 	},
 	{
@@ -1125,19 +1125,19 @@
 	{
 		"abr": "sarcophagus",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Sarcophagus"
 	},
 	{
 		"abr": "podlauncher",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PodLauncher"
 	},
 	{
 		"abr": "transportpod",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "TransportPod"
 	},
 	{
@@ -1149,7 +1149,7 @@
 	{
 		"abr": "autodoor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Autodoor"
 	},
 	{
@@ -1161,67 +1161,67 @@
 	{
 		"abr": "hydroponicsbasin",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "HydroponicsBasin"
 	},
 	{
 		"abr": "windturbine",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WindTurbine"
 	},
 	{
 		"abr": "wood-firedgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WoodFiredGenerator"
 	},
 	{
 		"abr": "cooler",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Cooler"
 	},
 	{
 		"abr": "moisturepump",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MoisturePump"
 	},
 	{
 		"abr": "nutrientpastedispenser",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "NutrientPasteDispenser"
 	},
 	{
 		"abr": "largestele",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SteleLarge"
 	},
 	{
 		"abr": "chemfuelpoweredgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ChemfuelPoweredGenerator"
 	},
 	{
 		"abr": "solargenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SolarGenerator"
 	},
 	{
 		"abr": "commsconsole",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "CommsConsole"
 	},
 	{
 		"abr": "ancientcryptosleepcasket",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "AncientCryptosleepCasket"
 	},
 	{
@@ -1233,43 +1233,43 @@
 	{
 		"abr": "electriccrematorium",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ElectricCrematorium"
 	},
 	{
 		"abr": "grandstele",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SteleGrand"
 	},
 	{
 		"abr": "watermillgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WatermillGenerator"
 	},
 	{
 		"abr": "cryptosleepcasket",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "CryptosleepCasket"
 	},
 	{
 		"abr": "geothermalgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "GeothermalGenerator"
 	},
 	{
 		"abr": "long-rangemineralscanner",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "LongRangeMineralScanner"
 	},
 	{
 		"abr": "ground-penetratingscanner",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "GroundPenetratingScanner"
 	},
 	{
@@ -1281,49 +1281,49 @@
 	{
 		"abr": "shipcryptosleepcasket",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_CryptosleepCasket"
 	},
 	{
 		"abr": "shipstructuralbeam",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Beam"
 	},
 	{
 		"abr": "autocannonturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Turret_Autocannon"
 	},
 	{
 		"abr": "uraniumslugturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Turret_Sniper"
 	},
 	{
 		"abr": "sensorcluster",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_SensorCluster"
 	},
 	{
 		"abr": "shipengine",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Engine"
 	},
 	{
 		"abr": "shipreactor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Reactor"
 	},
 	{
 		"abr": "shipcomputercore",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_ComputerCore"
 	},
 	{
@@ -6405,571 +6405,571 @@
 	{
 		"abr": "airconditioningunit",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "AirConditioningUnit"
 	},
 	{
 		"abr": "air-conpipe",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "airPipe"
 	},
 	{
 		"abr": "artificialecosystem",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_Ecosystem"
 	},
 	{
 		"abr": "ballista",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_Ballista"
 	},
 	{
 		"abr": "barfence",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Bar"
 	},
 	{
 		"abr": "bargate(horizontal)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "BarGateHori"
 	},
 	{
 		"abr": "bargate(vertical)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "BarGateVerti"
 	},
 	{
 		"abr": "barbedwire",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_BarbedWire"
 	},
 	{
 		"abr": "barrier",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Barrier"
 	},
 	{
 		"abr": "biosolidfertilizer",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "BiosolidFertilizer"
 	},
 	{
 		"abr": "bluesterilewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileBlue"
 	},
 	{
 		"abr": "bonewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "BoneWall"
 	},
 	{
 		"abr": "brickfence(short)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShortBrick"
 	},
 	{
 		"abr": "brickfence(tall)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "TallBrick"
 	},
 	{
 		"abr": "brownsterilewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileBrown"
 	},
 	{
 		"abr": "burnpit",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "BurnPit"
 	},
 	{
 		"abr": "catapult",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_Catapult"
 	},
 	{
 		"abr": "cavalryspikes",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_CavalrySpikes"
 	},
 	{
 		"abr": "chainlinkfence",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "TallChainLink"
 	},
 	{
 		"abr": "chainlinkgate(horizontal)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ChainlinkGateHori"
 	},
 	{
 		"abr": "chainlinkgate(vertical)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ChainlinkGateVerti"
 	},
 	{
 		"abr": "chargecomplex",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_ChargeComplex"
 	},
 	{
 		"abr": "chargerailgun",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_ChargeRailgunTurret"
 	},
 	{
 		"abr": "closeboardfence",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Closeboard"
 	},
 	{
 		"abr": "closeboardgate(horizontal)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "CloseboardGateHori"
 	},
 	{
 		"abr": "closeboardgate(vertical)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "CloseboardGateVerti"
 	},
 	{
 		"abr": "cobblestonewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFEM_CobblestoneWall"
 	},
 	{
 		"abr": "creamsterilewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileCream"
 	},
 	{
 		"abr": "darksterilewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileDark"
 	},
 	{
 		"abr": "deepwaterwell",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "DeepWaterWellInlet"
 	},
 	{
 		"abr": "deployablebarrier",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_DeployableBarrier"
 	},
 	{
 		"abr": "doubleautocannon",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_AutocannonDouble"
 	},
 	{
 		"abr": "embrasure",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ED_Embrasure"
 	},
 	{
 		"abr": "empcannon",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_EMPTurret"
 	},
 	{
 		"abr": "farmfence",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Farm"
 	},
 	{
 		"abr": "farmgate(horizontal)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "FarmGateHori"
 	},
 	{
 		"abr": "farmgate(vertical)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "FarmGateVerti"
 	},
 	{
 		"abr": "furnace",
 		"price": 1458,
-		"category": "",
+		"category": "Misc",
 		"defname": "Furnace"
 	},
 	{
 		"abr": "goldsterilewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileGold"
 	},
 	{
 		"abr": "greensterilewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileGreen"
 	},
 	{
 		"abr": "hmgcomplex",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_HMGComplex"
 	},
 	{
 		"abr": "hugewatertower",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WaterTowerL"
 	},
 	{
 		"abr": "industrialvent",
 		"price": 169,
-		"category": "",
+		"category": "Misc",
 		"defname": "ThermalVent"
 	},
 	{
 		"abr": "in-wallroller",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MovingRailWall"
 	},
 	{
 		"abr": "largeshieldgenerator",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_ShieldGenerator_Large"
 	},
 	{
 		"abr": "leftturnroller",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MovingRailLeft"
 	},
 	{
 		"abr": "meatdryingrack",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "RC2_MeatDryingRack"
 	},
 	{
 		"abr": "miniquarry",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "QRY_MiniQuarry"
 	},
 	{
 		"abr": "over-wallcooler",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Cooler_Over"
 	},
 	{
 		"abr": "over-wallcooler(wide)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Cooler_Over2W"
 	},
 	{
 		"abr": "over-wallvent",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Vent_Over"
 	},
 	{
 		"abr": "picketfence",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Picket"
 	},
 	{
 		"abr": "picketgate(horizontal)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PicketGateHori"
 	},
 	{
 		"abr": "picketgate(vertical)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PicketGateVerti"
 	},
 	{
 		"abr": "planterbox",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_PlanterBox"
 	},
 	{
 		"abr": "plumbing",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "sewagePipeStuff"
 	},
 	{
 		"abr": "post",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Post"
 	},
 	{
 		"abr": "primitivewell",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PrimitiveWell"
 	},
 	{
 		"abr": "pumpingstation",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PumpingStation"
 	},
 	{
 		"abr": "quarry",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "QRY_Quarry"
 	},
 	{
 		"abr": "quarryplatform",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "QRY_Platform"
 	},
 	{
 		"abr": "redsterilewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileRed"
 	},
 	{
 		"abr": "reinforcedwall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Reinforced_WallAT"
 	},
 	{
 		"abr": "researchcounter",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Facility_ResearchCounter"
 	},
 	{
 		"abr": "rightturnroller",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MovingRailRight"
 	},
 	{
 		"abr": "rocketturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_TriRocket"
 	},
 	{
 		"abr": "roofbomb",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "RoofBomb"
 	},
 	{
 		"abr": "sacredcolumn",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "GraveColumnMod"
 	},
 	{
 		"abr": "saloondoor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "DoorSaloon"
 	},
 	{
 		"abr": "septictank",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SewageSepticTank"
 	},
 	{
 		"abr": "sewageoutlet",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SewageOutlet"
 	},
 	{
 		"abr": "sewagetreatment",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SewageTreatment"
 	},
 	{
 		"abr": "shortwall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_ShortWall"
 	},
 	{
 		"abr": "solarheater",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SolarHeater"
 	},
 	{
 		"abr": "solidfence",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Solid"
 	},
 	{
 		"abr": "solidgate(horizontal)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SolidGateHori"
 	},
 	{
 		"abr": "solidgate(vertical)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SolidGateVerti"
 	},
 	{
 		"abr": "splitterroller",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MovingRailSplitter"
 	},
 	{
 		"abr": "stalldoor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ToiletStallDoor"
 	},
 	{
 		"abr": "stonecampfire",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Stone_Campfire"
 	},
 	{
 		"abr": "straightroller",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MovingRailStraight"
 	},
 	{
 		"abr": "swimmingpool",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "DBHSwimmingPool"
 	},
 	{
 		"abr": "tealsterilewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileTeal"
 	},
 	{
 		"abr": "tilableartificialecosystem",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_Ecosystem_Tilable"
 	},
 	{
 		"abr": "tilablehydroponicsbasin",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_Hydroponics_Tilable"
 	},
 	{
 		"abr": "tilableplanterbox",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_PlanterBox_Tilable"
 	},
 	{
 		"abr": "trench",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Trench"
 	},
 	{
 		"abr": "undergroundrollerinput",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MovingRailUndergroundInput"
 	},
 	{
 		"abr": "undergroundrolleroutput",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "MovingRailUndergroundOutput"
 	},
 	{
 		"abr": "wallpaper",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_Wallpaper"
 	},
 	{
 		"abr": "watertower",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WaterTowerS"
 	},
 	{
 		"abr": "watertreatment",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WaterTreatment"
 	},
 	{
 		"abr": "waterwell",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WaterWellInlet"
 	},
 	{
 		"abr": "windpump",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WindPump"
 	},
 	{
 		"abr": "windmill",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Windmill"
 	},
 	{
@@ -7388,7 +7388,7 @@
 	},
 	{
 		"abr": "elderbrain",
-		"price": 16667,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "O21_Item_ElderBrain"
 	},
@@ -7521,7 +7521,7 @@
 	{
 		"abr": "grimoireoftheoccult",
 		"price": -10,
-		"category": "Items",
+		"category": "Books",
 		"defname": "Cults_Grimoire"
 	},
 	{
@@ -8109,7 +8109,7 @@
 	{
 		"abr": "thekinginyellow",
 		"price": -10,
-		"category": "Items",
+		"category": "Books",
 		"defname": "Cults_TheKingInYellow"
 	},
 	{
@@ -8185,87 +8185,177 @@
 		"defname": "RimWriter_TableWriting"
 	},
 	{
+		"abr": "guestadvancedbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_AdvBedGuest"
+	},
+	{
+		"abr": "guestadvanceddoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_AdvDoubleBedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
+	},
+	{
 		"abr": "alcove",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Cults_Alcove"
 	},
 	{
 		"abr": "alcove(torch)",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Cults_AlcoveTorch"
 	},
 	{
 		"abr": "ballotbox",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "BallotBox"
 	},
 	{
 		"abr": "chemfuelpoweredgeneratorlv2",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ChemfuelPoweredGenerator_II"
 	},
 	{
 		"abr": "elderbrainpool",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "O21_Building_ElderBrainPool"
 	},
 	{
 		"abr": "geothermalgeneratorlv2",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "GeothermalGenerator_II"
 	},
 	{
 		"abr": "linkablepews",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Cults_PewLinkable"
 	},
 	{
 		"abr": "relicchest",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Cults_TreasureChest_Relic"
 	},
 	{
 		"abr": "signofdagon",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Cults_SignOfDagon"
 	},
 	{
 		"abr": "solargeneratorlv2",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SolarGenerator_II"
 	},
 	{
 		"abr": "teachertable",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "TeachingSpot"
 	},
 	{
 		"abr": "treasurechest",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Cults_TreasureChest"
 	},
 	{
 		"abr": "watermillgeneratorlv2",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WatermillGenerator_II"
 	},
 	{
 		"abr": "windturbinelv2",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WindTurbine_II"
 	}
 	],
