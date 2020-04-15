@@ -1904,61 +1904,61 @@
 	},
 	{
 		"abr": "chickenegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggChickenFertilized"
 	},
 	{
 		"abr": "duckegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDuckFertilized"
 	},
 	{
 		"abr": "gooseegg(fert.)",
-		"price": 18,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggGooseFertilized"
 	},
 	{
 		"abr": "turkeyegg(fert.)",
-		"price": 18,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTurkeyFertilized"
 	},
 	{
 		"abr": "emuegg(fert.)",
-		"price": 30,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggEmuFertilized"
 	},
 	{
 		"abr": "cassowaryegg(fert.)",
-		"price": 32,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCassowaryFertilized"
 	},
 	{
 		"abr": "ostrichegg(fert.)",
-		"price": 38,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggOstrichFertilized"
 	},
 	{
 		"abr": "tortoiseegg(fert.)",
-		"price": 38,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTortoiseFertilized"
 	},
 	{
 		"abr": "iguanaegg(fert.)",
-		"price": 42,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggIguanaFertilized"
 	},
 	{
 		"abr": "cobraegg(fert.)",
-		"price": 67,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized"
 	},
@@ -2744,7 +2744,7 @@
 	},
 	{
 		"abr": "alligatoregg(fert.)",
-		"price": 38,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggAlligatorFertilized"
 	},
@@ -2774,7 +2774,7 @@
 	},
 	{
 		"abr": "anacondaegg(fert.)",
-		"price": 208,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggAnacondaFertilized"
 	},
@@ -3602,7 +3602,7 @@
 	},
 	{
 		"abr": "crocodileegg(fert.)",
-		"price": 40,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggCrocodileFertilized"
 	},
@@ -3680,7 +3680,7 @@
 	},
 	{
 		"abr": "deserttortoiseegg(fert.)",
-		"price": 47,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggDesertTortoiseFertilized"
 	},
@@ -4064,7 +4064,7 @@
 	},
 	{
 		"abr": "gilamonsteregg(fert.)",
-		"price": 53,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggGilaMonsterFertilized"
 	},
@@ -5144,7 +5144,7 @@
 	},
 	{
 		"abr": "penguinegg(fert.)",
-		"price": 32,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggPenguinFertilized"
 	},
@@ -5246,7 +5246,7 @@
 	},
 	{
 		"abr": "platypusegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggPlatypusFertilized"
 	},
@@ -5414,7 +5414,7 @@
 	},
 	{
 		"abr": "rattlesnakeegg(fert.)",
-		"price": 67,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggRattlesnakeFertilized"
 	},
