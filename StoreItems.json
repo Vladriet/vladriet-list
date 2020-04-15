@@ -8324,7 +8324,7 @@
 	},
 	{
 		"abr": "signofdagon",
-		"price": 0,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Cults_SignOfDagon"
 	},
