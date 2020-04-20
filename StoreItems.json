@@ -1598,7 +1598,7 @@
 	},
 	{
 		"abr": "personacore",
-		"price": 6667,
+		"price": 10000,
 		"category": "Items",
 		"defname": "AIPersonaCore"
 	},
@@ -2894,7 +2894,7 @@
 	},
 	{
 		"abr": "autocleaner",
-		"price": 1917,
+		"price": -10,
 		"category": "Items",
 		"defname": "AutocleanerItem"
 	},
@@ -3974,7 +3974,7 @@
 	},
 	{
 		"abr": "fountain",
-		"price": 52,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "Fountain"
 	},
@@ -4352,13 +4352,13 @@
 	},
 	{
 		"abr": "hottub",
-		"price": 800,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "HotTub"
 	},
 	{
 		"abr": "hotwatertank",
-		"price": 245,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "HotWaterTank"
 	},
@@ -4490,7 +4490,7 @@
 	},
 	{
 		"abr": "kitchensink",
-		"price": 167,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "KitchenSink"
 	},
@@ -4760,7 +4760,7 @@
 	},
 	{
 		"abr": "litterbox",
-		"price": 52,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "LitterBox"
 	},
@@ -6973,12 +6973,6 @@
 		"defname": "Windmill"
 	},
 	{
-		"abr": "batterylv2",
-		"price": 667,
-		"category": "Power",
-		"defname": "Battery_II"
-	},
-	{
 		"abr": "blackgoatmeat",
 		"price": 3,
 		"category": "Raw meat",
@@ -8185,96 +8179,6 @@
 		"defname": "RimWriter_TableWriting"
 	},
 	{
-		"abr": "guestadvancedbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_AdvBedGuest"
-	},
-	{
-		"abr": "guestadvanceddoublebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_AdvDoubleBedGuest"
-	},
-	{
-		"abr": "guestbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestcryptosleepsuspender",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_CryptoBedGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guestergonomicbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_ErgonomicGuest"
-	},
-	{
-		"abr": "guestergonomicdoublebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomicGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestoperatingtable",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTableGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "guestroyalposterbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_KingsizeGuest"
-	},
-	{
-		"abr": "guestsimplebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_SimpleGuest"
-	},
-	{
-		"abr": "guestslabbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_StoneSlabGuest"
-	},
-	{
 		"abr": "alcove",
 		"price": -10,
 		"category": "Misc",
@@ -8293,22 +8197,10 @@
 		"defname": "BallotBox"
 	},
 	{
-		"abr": "chemfuelpoweredgeneratorlv2",
-		"price": -10,
-		"category": "Misc",
-		"defname": "ChemfuelPoweredGenerator_II"
-	},
-	{
 		"abr": "elderbrainpool",
 		"price": -10,
 		"category": "Misc",
 		"defname": "O21_Building_ElderBrainPool"
-	},
-	{
-		"abr": "geothermalgeneratorlv2",
-		"price": -10,
-		"category": "Misc",
-		"defname": "GeothermalGenerator_II"
 	},
 	{
 		"abr": "linkablepews",
@@ -8329,12 +8221,6 @@
 		"defname": "Cults_SignOfDagon"
 	},
 	{
-		"abr": "solargeneratorlv2",
-		"price": -10,
-		"category": "Misc",
-		"defname": "SolarGenerator_II"
-	},
-	{
 		"abr": "teachertable",
 		"price": -10,
 		"category": "Misc",
@@ -8347,17 +8233,275 @@
 		"defname": "Cults_TreasureChest"
 	},
 	{
-		"abr": "watermillgeneratorlv2",
-		"price": -10,
-		"category": "Misc",
-		"defname": "WatermillGenerator_II"
+		"abr": "advancedbattery",
+		"price": 750,
+		"category": "Power",
+		"defname": "VFE_AdvancedBattery"
 	},
 	{
-		"abr": "windturbinelv2",
+		"abr": "archotechviolencegenerator",
+		"price": 5667,
+		"category": "Special",
+		"defname": "VPE_ArchotechViolenceGenerator"
+	},
+	{
+		"abr": "gasheater",
+		"price": 218,
+		"category": "Temperature",
+		"defname": "VPE_GasHeater"
+	},
+	{
+		"abr": "gaspoweredexcavator",
+		"price": -10,
+		"category": "Production",
+		"defname": "VPE_GasDrill"
+	},
+	{
+		"abr": "gassunlamp",
+		"price": 160,
+		"category": "Furniture",
+		"defname": "VPE_GasSunLamp"
+	},
+	{
+		"abr": "gastank",
+		"price": 321,
+		"category": "Power",
+		"defname": "VPE_GasTank"
+	},
+	{
+		"abr": "helixiengassmelter",
+		"price": 667,
+		"category": "Production",
+		"defname": "VPE_GasSmelter"
+	},
+	{
+		"abr": "helixiengasstove",
+		"price": 375,
+		"category": "Production",
+		"defname": "VPE_GasStove"
+	},
+	{
+		"abr": "largeadvancedbattery",
+		"price": 1467,
+		"category": "Power",
+		"defname": "VFE_LargeAdvancedBattery"
+	},
+	{
+		"abr": "largebattery",
+		"price": 667,
+		"category": "Power",
+		"defname": "VFE_LargeBattery"
+	},
+	{
+		"abr": "largevanometricpowercell",
+		"price": 4000,
+		"category": "Special",
+		"defname": "VFE_LargeVanometricPowerCell"
+	},
+	{
+		"abr": "lightningrod",
+		"price": 667,
+		"category": "Special",
+		"defname": "VPE_LightningRod"
+	},
+	{
+		"abr": "portablechemfuelpoweredgenerator",
+		"price": 242,
+		"category": "Power",
+		"defname": "VFE_PortableChemfuelPoweredGenerator"
+	},
+	{
+		"abr": "portablewood-firedgenerator",
+		"price": 189,
+		"category": "Power",
+		"defname": "VFE_PortableWoodFiredGenerator"
+	},
+	{
+		"abr": "smallbattery",
+		"price": 182,
+		"category": "Power",
+		"defname": "VFE_SmallBattery"
+	},
+	{
+		"abr": "smallvanometricpowercell",
+		"price": 667,
+		"category": "Special",
+		"defname": "VFE_SmallVanometricPowerCell"
+	},
+	{
+		"abr": "guestadvancedbed",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "Bed_AdvBedGuest"
+	},
+	{
+		"abr": "guestadvanceddoublebed",
+		"price": 1483,
+		"category": "Furniture",
+		"defname": "Bed_AdvDoubleBedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": 290,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": 450,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": 867,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": 1467,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": 2008,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": 111,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
+	},
+	{
+		"abr": "advancedsolargenerator",
 		"price": -10,
 		"category": "Misc",
-		"defname": "WindTurbine_II"
+		"defname": "VFE_AdvancedSolarGenerator"
+	},
+	{
+		"abr": "advancedwatermillgenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFE_AdvancedWatermillGenerator"
+	},
+	{
+		"abr": "advancedwindturbine",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFE_AdvancedWindTurbine"
+	},
+	{
+		"abr": "chemfuelpump",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VPE_ChemfuelPump"
+	},
+	{
+		"abr": "gascooler",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VPE_GasCooler"
+	},
+	{
+		"abr": "gaspipe",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VPE_GasPipe"
+	},
+	{
+		"abr": "helixiengascrematorium",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VPE_GasCrematorium"
+	},
+	{
+		"abr": "helixiengaspoweredgenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VPE_HelixienGenerator"
+	},
+	{
+		"abr": "helixienpump",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VPE_HelixienPump"
+	},
+	{
+		"abr": "industrialchemfuelpoweredgenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFE_IndustrialChemfuelPoweredGenerator"
+	},
+	{
+		"abr": "industrialhelixiengaspoweredgenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VPE_IndustrialHelixienGenerator"
+	},
+	{
+		"abr": "industrialwood-firedgenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFE_IndustrialWoodFiredGenerator"
+	},
+	{
+		"abr": "nuclearreactor",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VPE_NuclearGenerator"
+	},
+	{
+		"abr": "tidalgenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VFE_TidalGenerator"
 	}
 	],
-	"total": 2194
+	"total": 2239
 }
