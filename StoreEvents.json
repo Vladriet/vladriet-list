@@ -56,11 +56,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "solarflare",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad"
@@ -79,11 +74,6 @@
 		"abr": "eclipse",
 		"price": 900,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "aurora",
-		"price": 200,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "blight",
@@ -111,7 +101,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "orbitaltraderarrival",
+		"abr": "orbitaltrader",
 		"price": 100,
 		"karmatype": "Neutral"
 	},
@@ -166,11 +156,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "visitorgroup",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "skillincrease",
 		"price": 200,
 		"karmatype": "Good"
@@ -189,11 +174,6 @@
 		"abr": "shippartpsychic",
 		"price": 4000,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -241,11 +221,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "disease",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "reviveanypawn",
 		"price": 3000,
 		"karmatype": "Good"
@@ -261,11 +236,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "visitcolony",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
@@ -274,12 +244,7 @@
 		"abr": "ttvote",
 		"price": 750,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hbvote",
-		"price": 600,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 56
+	"total": 49
 }
