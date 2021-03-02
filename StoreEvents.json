@@ -61,11 +61,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "toxicfallout",
-		"price": 13000,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "volcanicwinter",
 		"price": 6400,
 		"karmatype": "Doom"
@@ -74,6 +69,11 @@
 		"abr": "eclipse",
 		"price": 900,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "aurora",
+		"price": 200,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "blight",
@@ -161,6 +161,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "party",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "alphabeavers",
 		"price": 600,
 		"karmatype": "Bad"
@@ -242,9 +247,14 @@
 	},
 	{
 		"abr": "ttvote",
-		"price": 750,
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hbvote",
+		"price": 600,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 49
+	"total": 51
 }
